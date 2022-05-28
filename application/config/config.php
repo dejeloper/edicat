@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   | a PHP script and you can easily do that on your own.
   |
  */
-$subdominio = 'mundoktolico';
+$subdominio = 'Plataforma';
 $config['subdominio'] = $subdominio;
 $config['base_url'] = 'https://' . $subdominio . '.edicat.com.co/';
 
